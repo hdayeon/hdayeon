@@ -1,5 +1,4 @@
 ## 🔭
-<div align="center">
   
 <div align="center">
   <img src="" alt="DaYeonTitle" />
@@ -32,4 +31,3 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdayeon&layout=compact)
 
-</div>
