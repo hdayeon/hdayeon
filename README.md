@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/04247dd4-a101-43df-b8d5-bbe049125be1" alt="DaYeonTitle" />
+<img src="https://github.com/user-attachments/assets/01514e8a-38fd-4cf4-950c-e8a623161cce" alt="DaYeonTitle" />
 
 <h3>🌱</h3>
 <div>
