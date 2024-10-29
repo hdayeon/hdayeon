@@ -1,9 +1,6 @@
 <div align="center">
 
-  
-  ![dyGitHubMainImg](https://github.com/user-attachments/assets/e1e132e5-9ee2-43c4-99fd-48d5cab00fd7)
-
-<img src="https://github.com/user-attachments/assets/e1e132e5-9ee2-43c4-99fd-48d5cab00fd7" alt="DaYeonTitle" />
+<img src="https://github.com/user-attachments/assets/d809b859-7c17-495a-83a5-d85eebfda7bb" alt="DaYeonTitle" />
 
 <!--
 **hdayeon/hdayeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
