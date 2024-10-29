@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/d809b859-7c17-495a-83a5-d85eebfda7bb" alt="DaYeonTitle" />
+<img src="https://github.com/user-attachments/assets/a58fc661-8bfe-43dc-ac31-16044b3bc88c" alt="DaYeonTitle" />
 
 <!--
 **hdayeon/hdayeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
